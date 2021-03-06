@@ -1,0 +1,2 @@
+in the branch of AI, we have a main concept with name Machine Learning.
+if we look at AI as a human,his brain is ML.in other word,all of the processings about data`s and their learn do in ML.
